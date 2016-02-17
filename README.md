@@ -14,6 +14,7 @@ A test of Wernberg compression and visualization.
 Here's a generated image of chromosome #22, created using this wernberg program: (the genome is from [here](ftp://ftp.ncbi.nlm.nih.gov/genomes/H_sapiens/Assembled_chromosomes/seq/)).
 
 There's quite a lot of N's at the top, so you'll have to scroll about 1/3 of the way down to see any nucleotide bases.
+_It's also a 70 x 732323 file, so view it with good Internet access._
 
 
 
