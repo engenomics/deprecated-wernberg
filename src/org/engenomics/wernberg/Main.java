@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Main {
     public static String DIR = System.getProperty("user.dir");
-    public static String REL_PATH = DIR + "../../data/genomes/chr1/";
+    public static String REL_PATH = DIR + "../../data/genomes/chr22/";
 
     public static boolean isSRGB = false;
 
@@ -31,7 +31,7 @@ public class Main {
         List<String> lines = Files.readAllLines(Paths.get(path), Charset.defaultCharset());
 
 
-        int limit = 2000000; //lines.size() (3578897)
+        int limit = lines.size() - 1; //lines.size() (3578897)
 
         int complete = 0;
         long start = System.currentTimeMillis();
