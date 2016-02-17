@@ -12,7 +12,7 @@ A test of Wernberg ~~compression~~ visualization.
 
 ## what it might do later
 * XOR-style comparison of two genomes
-* Wernberg compression (right now, it's just visualization)
+* Wernberg compression!
 * Statistical analysis & pattern search
     
 ## example
