@@ -14,4 +14,4 @@ A test of Wernberg compression and visualization.
 Here's a generated image of chromosome #22, created using this wernberg program: (the genome is from [here](ftp://ftp.ncbi.nlm.nih.gov/genomes/H_sapiens/Assembled_chromosomes/seq/)).
 ![Chromosome 22][chr22]
 
-[chr22]: https://electronneutrino.com/engenomics/wernberg/images/chr22/style1/g.png
+[chr22]: https://github.com/engenomics/wernberg/blob/master/g.png?raw=true
