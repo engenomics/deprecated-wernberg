@@ -22,4 +22,4 @@ _It's also a 70 x 732323 file, so view it with good Internet access._
 
 ![Chromosome 22][chr22]
 
-[chr22]: https://github.com/engenomics/wernberg/blob/master/g.png?raw=true
+[chr22]: https://github.com/engenomics/wernberg/blob/master/g.png?raw=true "Chromosome 22"
