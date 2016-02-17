@@ -1,5 +1,5 @@
 # wernberg
-A test of Wernberg -compression and- visualization.
+A test of Wernberg ~~compression~~ visualization.
 
 ## what it does so far
 * Takes a genome
