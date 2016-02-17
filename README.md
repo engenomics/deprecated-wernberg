@@ -10,7 +10,7 @@ A test of Wernberg compression and visualization.
     * G - Yellow
     * N - Black
     
-# example
+## example
 Here's a generated image of chromosome #22, created using this wernberg program: (the genome is from [here](ftp://ftp.ncbi.nlm.nih.gov/genomes/H_sapiens/Assembled_chromosomes/seq/)).
 ![Chromosome 22][chr22]
 
