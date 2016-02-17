@@ -1,5 +1,5 @@
 # wernberg
-A test of Wernberg compression and visualization.
+A test of Wernberg -compression and- visualization.
 
 ## what it does so far
 * Takes a genome
@@ -9,6 +9,11 @@ A test of Wernberg compression and visualization.
     * T - Blue
     * G - Yellow
     * N - Black
+
+## what it might do later
+* XOR-style comparison of two genomes
+* Wernberg compression (right now, it's just visualization)
+* Statistical analysis & pattern search
     
 ## example
 Here's a generated image of chromosome #22, created using this wernberg program: (the genome is from [here](ftp://ftp.ncbi.nlm.nih.gov/genomes/H_sapiens/Assembled_chromosomes/seq/)).
