@@ -19,7 +19,7 @@ public class Main {
     public static String DIR = System.getProperty("user.dir");
     public static String REL_PATH = DIR + "../../data/genomes/chr22/";
 
-    public static boolean isSRGB = false;
+    public static boolean isSRGB = true;
 
     public static void main(String[] args) throws IOException {
         new Main().run();
@@ -71,7 +71,7 @@ public class Main {
             ImageLineInt line = new ImageLineInt(info);
             for (int k = 0; k < rgbs.length; k++) {
                 if (isSRGB) {
-                    ImageLineHelper.setPixelRGB8(line, k, rgbs[k]);
+                    ImageLineHelper.setPixelRGBA8(line, k, rgbs[k]);
                 } else {
                     ImageLineHelper.setPixelRGBA8(line, k, rgbs[k]);
                 }
